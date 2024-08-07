@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+/* Entete */
+.entete p{
+    display: inline;
+}
+
+.entete a{
+    text-decoration: none;
+}
+
+/* Corps*/
+
+
+.projects_img{
+  
+    max-width:250px;
+    max-height: 250px;
+}
+
+.projects_titre{
+    font-style: oblique;
+}
